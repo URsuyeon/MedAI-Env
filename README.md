@@ -34,13 +34,3 @@ conda activate MedAI
 
 이제 `MedAI` 환경을 활성화한 상태에서 필요한 패키지를 사용하거나, 프로젝트를 진행할 수 있습니다.
 
-## 5. Git 저장소 업데이트
-
-환경에 필요한 패키지나 설정을 변경한 후, Git에 업데이트할 수 있습니다.
-
-```bash
-git add .
-git commit -m "변경사항 설명"
-git push origin main
-```
-
