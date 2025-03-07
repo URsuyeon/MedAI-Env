@@ -1,4 +1,4 @@
-name: lasttest
+name: MedAI
 channels:
   - pytorch
   - nvidia
