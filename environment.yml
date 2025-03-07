@@ -1,8 +1,9 @@
-name: MedAI
+name: lasttest
 channels:
   - pytorch
   - nvidia
   - imperial-college-research-computing
+  - conda-forge
   - defaults
 dependencies:
   - _libgcc_mutex=0.1
